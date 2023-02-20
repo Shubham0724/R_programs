@@ -1,0 +1,1 @@
+data<- read.csv("~/R Studio/COVID19_line_list_data.csv")
